@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1090259548955",
+    "firebase_url": "https://hotel-management-ha-default-rtdb.firebaseio.com",
+    "project_id": "hotel-management-ha",
+    "storage_bucket": "hotel-management-ha.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1090259548955:android:d1849e270b21b9ac8af1be",
+        "android_client_info": {
+          "package_name": "com.hotelmanage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1090259548955-9t7ea68nq8ue1s8l0qtq3kkp2r2p0l5k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKArfT2XuLFmwrJoYZMG2IqhOJR-skVTU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1090259548955-9t7ea68nq8ue1s8l0qtq3kkp2r2p0l5k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
